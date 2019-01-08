@@ -52,18 +52,9 @@
       <HintPath>..\packages\SC.Sitecore.Kernel.9.0.2\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.XA.Feature.ErrorHandling, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.XA.Feature.ErrorHandling.3.7.1\lib\NET462\Sitecore.XA.Feature.ErrorHandling.dll</HintPath>
-    </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Abstractions, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.XA.Foundation.Abstractions.3.7.1\lib\NET462\Sitecore.XA.Foundation.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Common">
-      <HintPath>..\packages\SXA90.Sitecore.XA.Foundation.Common.1.7.1\lib\Sitecore.XA.Foundation.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Sitecore.XA.Foundation.Multisite, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.XA.Foundation.Multisite.3.7.1\lib\NET462\Sitecore.XA.Foundation.Multisite.dll</HintPath>
+      <HintPath>..\packages\SXA90.Sitecore.XA.Foundation.Multisite.1.7.1\lib\Sitecore.XA.Foundation.Multisite.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
